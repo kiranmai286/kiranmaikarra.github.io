@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kiranmai Karra Portfolio</title>
+</head>
+<body>
+    <h1>Hello, I'm Kiranmai Karra</h1>
+
+    <p>B.Tech Student | Aspiring Software Developer</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>HTML/CSS</li>
+    </ul>
+
+    <h2>Projects</h2>
+
+    <p>
+        <a href="https://github.com/yourusername/project1">
+            Student Management System
+        </a>
+    </p>
+
+    <p>c  
+        <a href="https://github.com/yourusername/project2">
+            Weather App
+        </a>
+    </p>
+
+    <h2>Contact</h2>
+
+    <p>Email: yourmail@gmail.com</p>
+
+    <p>
+        LinkedIn:
+        <a href="https://linkedin.com/in/yourprofile">
+            My LinkedIn
+        </a>
+    </p>
+
+</body>
+</html>
